@@ -1,0 +1,127 @@
+{
+  "node": {
+    "00d495c658b570e602ca10c28b8e08522d546d6332": {
+      "workers": {
+        "app/dashboard/products/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%2C%5B%7B%22id%22%3A%2240a0f1160ebbc1dbcfee6c778a28c1a2aa4767ab70%22%2C%22exportedName%22%3A%22deleteProductAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%7D%2C%7B%22id%22%3A%2240c56ad83871e8566e40820fddba9be7bbda2dfac8%22%2C%22exportedName%22%3A%22createProductAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Corders.ts%22%2C%5B%7B%22id%22%3A%2240c8b4da0fd0ba142b617673882bf6fbd515468d3d%22%2C%22exportedName%22%3A%22finishOrderAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Corders.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/categories/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Ccategories.ts%22%2C%5B%7B%22id%22%3A%224060205853a6d3f5ee295b254989b6a4106bb64e83%22%2C%22exportedName%22%3A%22createCategoryAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Ccategories.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/products/page": "action-browser",
+        "app/dashboard/page": "action-browser",
+        "app/dashboard/categories/page": "action-browser"
+      },
+      "filename": "../C:\\CursoFullStack\\ProjetoPizzaria\\Frontend\\src\\actions\\auth.ts",
+      "exportedName": "logoutAction"
+    },
+    "605b6c03a4a879f624035fdf52ac580189a913aa0d": {
+      "workers": {
+        "app/dashboard/products/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%2C%5B%7B%22id%22%3A%2240a0f1160ebbc1dbcfee6c778a28c1a2aa4767ab70%22%2C%22exportedName%22%3A%22deleteProductAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%7D%2C%7B%22id%22%3A%2240c56ad83871e8566e40820fddba9be7bbda2dfac8%22%2C%22exportedName%22%3A%22createProductAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Corders.ts%22%2C%5B%7B%22id%22%3A%2240c8b4da0fd0ba142b617673882bf6fbd515468d3d%22%2C%22exportedName%22%3A%22finishOrderAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Corders.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/categories/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Ccategories.ts%22%2C%5B%7B%22id%22%3A%224060205853a6d3f5ee295b254989b6a4106bb64e83%22%2C%22exportedName%22%3A%22createCategoryAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Ccategories.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/products/page": "action-browser",
+        "app/dashboard/page": "action-browser",
+        "app/dashboard/categories/page": "action-browser"
+      },
+      "filename": "../C:\\CursoFullStack\\ProjetoPizzaria\\Frontend\\src\\actions\\auth.ts",
+      "exportedName": "registerAction"
+    },
+    "60c499a17faf4ce6487efe2660b8cf095df938dc3b": {
+      "workers": {
+        "app/dashboard/products/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%2C%5B%7B%22id%22%3A%2240a0f1160ebbc1dbcfee6c778a28c1a2aa4767ab70%22%2C%22exportedName%22%3A%22deleteProductAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%7D%2C%7B%22id%22%3A%2240c56ad83871e8566e40820fddba9be7bbda2dfac8%22%2C%22exportedName%22%3A%22createProductAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Corders.ts%22%2C%5B%7B%22id%22%3A%2240c8b4da0fd0ba142b617673882bf6fbd515468d3d%22%2C%22exportedName%22%3A%22finishOrderAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Corders.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/categories/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Ccategories.ts%22%2C%5B%7B%22id%22%3A%224060205853a6d3f5ee295b254989b6a4106bb64e83%22%2C%22exportedName%22%3A%22createCategoryAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Ccategories.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/products/page": "action-browser",
+        "app/dashboard/page": "action-browser",
+        "app/dashboard/categories/page": "action-browser"
+      },
+      "filename": "../C:\\CursoFullStack\\ProjetoPizzaria\\Frontend\\src\\actions\\auth.ts",
+      "exportedName": "loginAction"
+    },
+    "40a0f1160ebbc1dbcfee6c778a28c1a2aa4767ab70": {
+      "workers": {
+        "app/dashboard/products/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%2C%5B%7B%22id%22%3A%2240a0f1160ebbc1dbcfee6c778a28c1a2aa4767ab70%22%2C%22exportedName%22%3A%22deleteProductAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%7D%2C%7B%22id%22%3A%2240c56ad83871e8566e40820fddba9be7bbda2dfac8%22%2C%22exportedName%22%3A%22createProductAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/products/page": "action-browser"
+      },
+      "filename": "../C:\\CursoFullStack\\ProjetoPizzaria\\Frontend\\src\\actions\\products.ts",
+      "exportedName": "deleteProductAction"
+    },
+    "40c56ad83871e8566e40820fddba9be7bbda2dfac8": {
+      "workers": {
+        "app/dashboard/products/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%2C%5B%7B%22id%22%3A%2240a0f1160ebbc1dbcfee6c778a28c1a2aa4767ab70%22%2C%22exportedName%22%3A%22deleteProductAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%7D%2C%7B%22id%22%3A%2240c56ad83871e8566e40820fddba9be7bbda2dfac8%22%2C%22exportedName%22%3A%22createProductAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cproducts.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/products/page": "action-browser"
+      },
+      "filename": "../C:\\CursoFullStack\\ProjetoPizzaria\\Frontend\\src\\actions\\products.ts",
+      "exportedName": "createProductAction"
+    },
+    "40c8b4da0fd0ba142b617673882bf6fbd515468d3d": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Corders.ts%22%2C%5B%7B%22id%22%3A%2240c8b4da0fd0ba142b617673882bf6fbd515468d3d%22%2C%22exportedName%22%3A%22finishOrderAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Corders.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      },
+      "filename": "../C:\\CursoFullStack\\ProjetoPizzaria\\Frontend\\src\\actions\\orders.ts",
+      "exportedName": "finishOrderAction"
+    },
+    "4060205853a6d3f5ee295b254989b6a4106bb64e83": {
+      "workers": {
+        "app/dashboard/categories/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%2C%5B%7B%22id%22%3A%2200d495c658b570e602ca10c28b8e08522d546d6332%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%22605b6c03a4a879f624035fdf52ac580189a913aa0d%22%2C%22exportedName%22%3A%22registerAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%2C%7B%22id%22%3A%2260c499a17faf4ce6487efe2660b8cf095df938dc3b%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Cauth.ts%22%7D%5D%5D%2C%5B%22C%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Ccategories.ts%22%2C%5B%7B%22id%22%3A%224060205853a6d3f5ee295b254989b6a4106bb64e83%22%2C%22exportedName%22%3A%22createCategoryAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CCursoFullStack%5C%5CProjetoPizzaria%5C%5CFrontend%5C%5Csrc%5C%5Cactions%5C%5Ccategories.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/categories/page": "action-browser"
+      },
+      "filename": "../C:\\CursoFullStack\\ProjetoPizzaria\\Frontend\\src\\actions\\categories.ts",
+      "exportedName": "createCategoryAction"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Pc3Jlox2Qkk1GQaNnIpCeO64nioh8wl4TDG8eq6fSbs="
+}
